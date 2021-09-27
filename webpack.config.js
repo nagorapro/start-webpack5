@@ -59,7 +59,7 @@ const сonfig = {
 
   entry: [
     '@babel/polyfill',
-    './js/main.js'
+    './js/index.js'
   ],
 
   output: {
